@@ -1,0 +1,428 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="#FCFCFD">
+
+
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="250dp"
+        android:layout_height="140dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="30dp"
+        android:background="#FFFFFF"
+        android:src="@drawable/aaaa" />
+
+    <TextView
+        android:layout_width="1000dp"
+        android:layout_height="47dp"
+        android:layout_margintop="110dp"
+        android:background="#D81B60"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:text="                         Food Panda  "
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="6dp"
+        android:layout_height="226dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="0dp"
+
+        android:background="#F50057"
+        android:text="."
+        android:textSize="30dp" />
+    <TextView
+        android:id="@+id/text5"
+        android:layout_width="6dp"
+        android:layout_height="226dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="525dp"
+        android:background="#F50057"
+        android:text="."
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="170dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="230dp"
+        android:text="."
+        android:backgroundTint="#130B0E"/>
+    />
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="240dp"
+        android:text="Home"
+        android:textSize="35dp"
+        android:backgroundTint="#D81B60"/>
+
+
+
+
+
+    <Button
+        android:id="@+id/button33"
+        android:layout_width="170dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="330dp"
+        android:text="."
+        android:backgroundTint="#130B0E"/>
+    />
+    <Button
+        android:id="@+id/button2323"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="340dp"
+        android:text="Work"
+        android:textSize="35dp"
+        android:backgroundTint="#D81B60"/>
+
+
+
+
+    <Button
+        android:id="@+id/button233"
+        android:layout_width="170dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="430dp"
+        android:text="."
+        android:backgroundTint="#130B0E"/>
+    />
+    <Button
+        android:id="@+id/button21323"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="440dp"
+        android:text="Other"
+        android:textSize="35dp"
+        android:backgroundTint="#D81B60"/>
+
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="190dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="194dp"
+        android:layout_marginTop="330dp"
+        android:backgroundTint="#130B0E"
+        android:text="." /><![CDATA[
+    />
+
+
+    ]]>
+
+    <Button
+        android:id="@+id/button79"
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="205dp"
+        android:layout_marginTop="341dp"
+
+        android:backgroundTint="#D81B60"
+        android:text="." />
+    <Button
+        android:id="@+id/button23213"
+        android:layout_width="80dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="445dp"
+        android:layout_marginTop="330dp"
+        android:text="-"
+        android:textColor="#FFFFFF"
+        android:textSize="60dp"
+        android:backgroundTint="#0789FB" />
+
+    <EditText
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="225dp"
+        android:layout_marginTop="349dp"
+        android:text="Email2@com..."
+        android:textColor="#ffffff"
+        android:background="#D81B60"
+        android:textStyle="italic"
+        android:textSize="28dp"
+
+        />
+    <Button
+        android:id="@+id/button120"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="186dp"
+        android:layout_marginTop="230dp"
+        android:text="."
+        android:backgroundTint="#130B0E"/>
+    />
+    <Button
+        android:id="@+id/button92"
+        android:layout_width="319dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="195dp"
+        android:layout_marginTop="240dp"
+        android:text="."
+        android:backgroundTint="#D81B60"/>
+
+    <Button
+        android:id="@+id/button232813"
+        android:layout_width="80dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="445dp"
+        android:layout_marginTop="230dp"
+        android:text="-"
+        android:textColor="#FFFFFF"
+        android:textSize="60dp"
+        android:backgroundTint="#0789FB" />
+
+
+    <EditText
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="205dp"
+        android:layout_marginTop="259dp"
+        android:text="Email1@com..."
+        android:textColor="#ffffff"
+        android:background="#D81B60"
+        android:textStyle="italic"
+        android:textSize="26dp"/>
+
+
+
+    <EditText
+        android:layout_width="950dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="159dp"
+        android:text="    Email Address..."
+        android:textColor="#ffffff"
+        android:background="#000000"
+        android:textStyle="italic"
+        android:textSize="30dp"
+
+        />
+
+    <Button
+        android:id="@+id/button2328113"
+        android:layout_width="80dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="355dp"
+        android:layout_marginTop="140dp"
+        android:text="+"
+        android:textColor="#76FF03"
+        android:textSize="60dp"
+        android:backgroundTint="#0789FB" />
+
+
+
+
+
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="330dp"
+        android:layout_marginTop="769dp"
+        android:text="Stay Logged in"
+        android:textColor="#131212"
+        android:textStyle="bold"
+        android:textSize="28sp" />
+
+    <ImageView
+        android:id="@+id/imageVie2"
+        android:layout_width="55dp"
+        android:layout_height="80dp"
+        android:layout_alignParentStart="true"
+
+        android:layout_marginStart="275dp"
+        android:layout_marginTop="750dp"
+        android:layout_marginEnd="10dp"
+        android:background="#FFFFFF"
+        android:src="@drawable/hhh" />
+
+
+
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="420dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="54dp"
+        android:layout_marginTop="560dp"
+        android:text="."
+        android:backgroundTint="#130B0E"/>
+    />
+    <Button
+        android:id="@+id/button143"
+        android:layout_width="400dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="570dp"
+        android:text="."
+        android:backgroundTint="#FFFFFF"/>
+
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="50dp"
+        android:textStyle="italic"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="580dp"
+        android:text="Sign in with Google"
+        android:textColor="#070707"
+        android:background="#FFFFFF"
+        android:textSize="36sp" />
+
+
+
+    <Button
+        android:id="@+id/button133"
+        android:layout_width="420dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="54dp"
+        android:layout_marginTop="664dp"
+        android:text="."
+        android:backgroundTint="#130B0E"/>
+    />
+    <Button
+        android:id="@+id/button121"
+        android:layout_width="400dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="674dp"
+        android:text="."
+        android:backgroundTint="#FFFFFF"/>
+
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="50dp"
+        android:textStyle="italic"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="688dp"
+        android:text="Sign with Microsoft"
+        android:textColor="#070707"
+        android:background="#FFFFFF"
+        android:textSize="36sp" />
+
+
+
+
+    <ImageView
+        android:id="@+id/imageV3i8"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="582dp"
+
+        android:background="#FFFFFF"
+        android:src="@drawable/ggg" />
+
+
+
+
+    <ImageView
+        android:id="@+id/imageVie39"
+        android:layout_width="52dp"
+        android:layout_height="60dp"
+
+
+        android:layout_marginStart="79dp"
+        android:layout_marginTop="682dp"
+
+        android:background="#FFFFFF"
+        android:src="@drawable/ttt" />
+
+
+    <View
+        android:id="@+id/tex"
+        android:layout_width="1006dp"
+        android:layout_height="226dp"
+        android:layout_marginTop="820dp"
+        android:layout_marginLeft="0dp"
+        android:background="#D81B60"
+
+        android:textSize="30sp"/>
+
+
+
+
+    <Button
+        android:id="@+id/button1920"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="196dp"
+        android:layout_marginTop="430dp"
+        android:text="."
+        android:backgroundTint="#130B0E"/>
+
+    <Button
+        android:id="@+id/button799"
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="205dp"
+        android:layout_marginTop="441dp"
+
+        android:backgroundTint="#D81B60"
+        android:text="." />
+    <Button
+        android:id="@+id/button2312813"
+        android:layout_width="80dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="440dp"
+        android:layout_marginTop="430dp"
+        android:text="-"
+        android:textColor="#FFFFFF"
+        android:textSize="60dp"
+        android:backgroundTint="#0789FB" />
+    <EditText
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="225dp"
+        android:layout_marginTop="449dp"
+        android:text="Email address"
+        android:textColor="#ffffff"
+        android:background="#D81B60"
+        android:textStyle="italic"
+        android:textSize="28dp"
+
+        />
+
+
+
+
+
+
+
+
+</RelativeLayout>

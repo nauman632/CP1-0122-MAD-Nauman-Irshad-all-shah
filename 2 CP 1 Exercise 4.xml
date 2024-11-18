@@ -1,0 +1,183 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    >
+
+
+
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="1000dp"
+        android:layout_height="30dp"
+        android:text="  Spanish Flashcards"
+        android:layout_margintop="110dp"
+
+        android:background="#E1D7D7"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="1000dp"
+        android:layout_height="30dp"
+        android:text="  Spanish Flashcards"
+        android:layout_margintop="110dp"
+
+        android:background="#E1D7D7"
+        android:textSize="20dp"/>
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:background="#11FF00"
+        android:textcolor="#EFEBEB"
+        android:layout_marginLeft="10dp"
+        android:textSize="30dp"
+        android:text=" 5 Correct "/>
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="10dp"
+        android:text=" Amigo "
+        android:textSize="50dp"
+        android:textcolor="#E10606" />
+
+    <TextView
+        android:id="@+id/text4"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text3"
+
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="127dp"
+        android:text="  Friend  "
+        android:textSize="50dp"
+        android:textcolor="#000000" />
+
+    <TextView
+        android:id="@+id/text5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+
+        android:layout_marginBottom="80dp"
+        android:text="People  "
+        android:textSize="30dp"
+        android:textcolor="@color/white" />
+
+    <TextView
+        android:id="@+id/VIEW1"
+        android:layout_width="63dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="7dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="4dp"
+
+
+
+        android:background="#E8E8E8"
+        android:text=" AII"
+        android:textSize="30dp"
+        />
+
+
+    <View
+        android:id="@+id/v6"
+        android:layout_width="63dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="66dp"
+        android:layout_marginTop="0dp"
+
+        android:layout_marginBottom="6dp"
+        android:background="#F80606"
+        android:text="All"
+        android:textSize="66dp"
+         />
+
+    <TextView
+        android:id="@+id/v7"
+        android:layout_width="290dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="240dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="3dp"
+        android:background="#E8E8E8"
+        android:text="   Not Marked "
+
+        android:textSize="25dp"
+        android:textcolor="#000000" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        android:layout_below="@+id/text"
+        android:backgroundTint="#C5BEBD"
+        android:layout_toRightof="@+id/button1"
+        android:layout_marginLeft="196dp"
+        android:text="New Word"
+        android:textColor="#0E0D0D"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="70dp"
+        android:layout_marginStart="340dp"
+        android:layout_height="wrap_content"
+
+
+        android:layout_below="@+id/text"
+        android:backgroundTint="#C5BEBD"
+        android:layout_toRightof="@+id/button1"
+        android:layout_marginLeft="00dp"
+        android:text="w"
+        android:textColor="#0E0D0D"
+        android:textSize="22dp" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text"
+        android:layout_alignParentStart="true"
+        android:backgroundTint="#C5BEBD"
+        android:layout_marginLeft="5dp"
+        android:text="Ready to speak"
+        android:textColor="#0E0D0D"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="148dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="663dp"
+        app:srcCompat="@drawable/una" />
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_marginTop="700dp"
+        android:layout_marginLeft="260dp"
+        android:layout_width="1000dp"
+        android:layout_height="200dp"
+        app:srcCompat="@drawable/Un" />
+
+
+</RelativeLayout>
